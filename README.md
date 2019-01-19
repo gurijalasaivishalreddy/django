@@ -1,0 +1,2 @@
+# django
+During the workshop
